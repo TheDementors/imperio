@@ -1,2 +1,2 @@
 # imperio
-imperio: A N Dimentional array for JS
+imperio: A N Dimensional array for JS
